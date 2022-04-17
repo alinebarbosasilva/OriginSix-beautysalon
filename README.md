@@ -14,7 +14,6 @@ Olá! Bem vindo ao meu repositório criado para o desafio de fazer um site :wave
 
   - [IconMoon](https://icomoon.io/app/#/select)
 
-     
 
     ## 💻 Projeto
 
